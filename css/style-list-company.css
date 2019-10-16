@@ -1,0 +1,41 @@
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+}
+#header{
+    margin-bottom: 20px;
+}
+#header .navbar{
+    background-color: black;
+}
+#user {
+    padding-left: 30px;
+}
+#user a{
+    color: #ee668b;
+}
+#user .fa-pencil-alt{
+    color: #ee668b;
+}
+.search-box{
+    margin-left: 600px;
+}
+.container-fluid{
+    min-height: 600px;
+}
+
+.card-img-top{
+    height: 200px;
+}
+.card{
+    margin: 10px;
+}
+footer p{
+    text-align: center;
+    color: #ffffff;
+}
+footer{
+    margin-top: 20px;
+    background: #000000;
+    padding: 20px 0;
+}
